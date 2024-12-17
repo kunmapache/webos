@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Camiseta Minimalista", "price": 20, "image": "img1.jpg" },
+  { "id": 2, "name": "Pantalón Casual", "price": 40, "image": "img2.jpg" },
+  { "id": 3, "name": "Zapatos Elegantes", "price": 60, "image": "img3.jpg" }
+]
